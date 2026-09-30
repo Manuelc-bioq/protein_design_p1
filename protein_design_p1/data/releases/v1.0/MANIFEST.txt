@@ -1,0 +1,7 @@
+version: v1.0
+fecha: 2026-09-29
+objetivo: todos los nanobodies (VHH) unidos a una proteina; HER2 marcado (is_her2)
+n_secuencias: 551
+sha256(sequences.fasta): ab20bf19a9b443ab15009a283e9dbc0692bea96e52299c245459c2533f81b9b3
+sha256(dataset.tsv): 997f04c022a333d59235000d67f67195da11a0e76e78de8756c15f2b5ed9e28c
+nota: Todos los nanobodies con antigeno proteico, HER2 marcado

@@ -1,0 +1,8 @@
+paso,n_entradas,n_her2
+tabla_completa_sabdab,22264,32
+nanobody_SD-H (sin cadena ligera),4614,5
+antigeno_proteina,3212,5
+sin_falsos_nanobodies (CDR-H3 distinta de anticuerpos convencionales),3202,4
+"resolucion_y_metodo (<=3.0A, rayosX/cryoEM)",1797,3
+longitud_dominio_vhh (100-140aa),1791,3
+tras_deduplicacion (95% identidad),551,3
